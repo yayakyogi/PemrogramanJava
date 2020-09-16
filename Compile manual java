@@ -1,0 +1,4 @@
+Cara compile java manual
+1. masuk direktori file java 
+2. ketik javac namafile.java
+3. untuk run ketik "java namaclass"
